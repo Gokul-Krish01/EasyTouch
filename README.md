@@ -18,8 +18,7 @@ EasyTouch Pro is a lightweight Python desktop tool that gives quick access to es
 
 Install the required Python libraries:
 
-```bash
 pip install customtkinter keyboard pystray pillow
 
-To Convert python script into EXE file
+## 🛠️ Convert into EXE file
 pyinstaller --onefile --windowed EasyTouch.py
